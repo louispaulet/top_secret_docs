@@ -1,5 +1,7 @@
 body {
     font-family: Arial, sans-serif;
+    background-size: cover;
+    background-position: center;
 }
 
 h1, h2 {
@@ -7,9 +9,14 @@ h1, h2 {
 }
 
 #document-display {
-    background-color: #eee;
+    background-color: rgba(255, 255, 255, 0.25);
     padding: 20px;
     margin-top: 20px;
+}
+
+.document-content {
+    background-color: rgba(255, 255, 255, 0.75);
+    padding: 10px;
 }
 
 #document-display p, #document-display ul {
