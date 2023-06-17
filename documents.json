@@ -1,7 +1,7 @@
 [
   {
     "docId": "NSA-QSN-TF88",
-    "imgurLink":"https://i.imgur.com/dM18v5D.jpg",
+    "imgurLink":0,
     "classification": "TOP SECRET",
     "analyst": "[REDACTED]",
     "reportDate": "[REDACTED]",
@@ -21,7 +21,7 @@
   },
   {
     "docId": "SCP-GF88-TR",
-    "imgurLink":"https://i.imgur.com/4mZNT8Y.jpg",
+    "imgurLink":1,
     "classification": "EUCLID",
     "objectID": "SCP-GF88-TR",
     "containmentProcedures": "The area known as 'Gravity Falls' requires regular surveillance due to unusual gravitational anomalies. Remote monitoring and on-site field teams are to investigate any new gravitational phenomena. Direct interaction with the 'Mysterious Triangle' entity (MT88-01-TR) requires Level 4 authorization and must be logged.",
@@ -39,7 +39,7 @@
   },
   {
     "docId": "SCP-4000-JB",
-    "imgurLink":"https://i.imgur.com/YhDzFoS.jpg",
+    "imgurLink":2,
     "classification": "KETER",
     "objectID": "SCP-4000-JB",
     "reportDate": "2023-06-17",
@@ -58,7 +58,7 @@
   },
   {
     "docId": "SCP-7869-J",
-    "imgurLink":"https://i.imgur.com/0LOo9bK.jpg",
+    "imgurLink":3,
     "classification": "EUCLID",
     "objectID": "SCP-7869-J",
     "reportDate": "2023-06-17",
@@ -77,7 +77,7 @@
   },
   {
     "docId": "SHN42-98-33",
-    "imgurLink":"https://i.imgur.com/NpKZv7T.jpg",
+    "imgurLink":4,
     "classification": "CONFIDENTIAL",
     "projectID": "SHN42-98-33",
     "reportDate": "2023-06-15",
@@ -97,7 +97,7 @@
   },
   {
     "docId": "DT45-17-46",
-    "imgurLink":"https://i.imgur.com/HDlQoqG.jpg",
+    "imgurLink":5,
     "classification": "CONFIDENTIAL",
     "subjectID": "DT45-17-46",
     "alias": "Donald J. Trump",
@@ -117,7 +117,7 @@
   },
   {
     "docId": "QDT45-23-92",
-    "imgurLink":"https://i.imgur.com/wMB66m7.jpg",
+    "imgurLink":6,
     "classification": "CONFIDENTIAL",
     "subjectID": "QDT45-23-92",
     "subject": "Alleged relationship between Donald J. Trump (DT45-17-46) and the conspiracy theory group known as QAnon.",
@@ -137,7 +137,7 @@
   },
   {
     "docId": "PV5G-39-57",
-    "imgurLink":"https://i.imgur.com/t72MxFe.jpg",
+    "imgurLink":7,
     "classification": "CONFIDENTIAL",
     "subjectID": "PV5G-39-57",
     "subject": "Alleged phenomenon involving a halved potato's ability to absorb the supposed 5G chip of a vaccine and subsequent toxins.",
@@ -157,7 +157,7 @@
   },
   {
     "docId": "TTKR-61-35",
-    "imgurLink":"https://i.imgur.com/fmShvTc.jpg",
+    "imgurLink":8,
     "classification": "CONFIDENTIAL",
     "subjectID": "TTKR-61-35",
     "subject": "Rehabilitation of the time-traveling T-Rex implicated in the assassination of John F. Kennedy.",
@@ -177,7 +177,7 @@
   },
   {
     "docId": "JEEUC-76-25",
-    "imgurLink":"https://i.imgur.com/q7bHfoy.jpg",
+    "imgurLink":9,
     "classification": "CONFIDENTIAL",
     "subjectID": "JEEUC-76-25",
     "subject": "Relocation of Jeffrey Epstein to the Euclid Compound on 17/05/2023.",

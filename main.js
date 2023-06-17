@@ -15,7 +15,7 @@ window.onload = function() {
 
             documentDropdown.onchange = function() {
                 const doc = documents[this.value];
-                document.body.style.backgroundImage = `url(${doc.imgurLink})`;
+                document.body.style.backgroundImage = `url(${image_links[doc.imgurLink]})`;
                 document.body.style.backgroundSize = 'auto 150%';
                 document.body.style.backgroundRepeat = 'no-repeat';
                 document.body.style.backgroundPosition = 'center center';
