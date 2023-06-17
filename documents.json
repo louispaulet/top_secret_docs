@@ -397,7 +397,29 @@
   ],
   "riskCode": "RED",
   "accessLevel": "EYES ONLY: HEAT"
+},
+
+{
+  "docId": "SCP-7890-Furious",
+  "imgurLink": 20,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-7890-Furious",
+  "reportDate": "2023-06-18",
+  "containmentProcedures": "SCP-7890-Furious necessitates continued production and broadcasting of the 'Fast & Furious' movie franchise towards the Alpha Centauri system. The broadcasting is carried out using SCP-7890-Furious-1, a highly directional deep-space communication device. Production entities associated with the franchise must be subtly manipulated into creating additional content indefinitely.",
+  "description": "SCP-7890-Furious is a demand issued by an unidentified extraterrestrial civilization originating from the Alpha Centauri star system. The demand requires a constant supply of new 'Fast & Furious' movies. Failure to comply results in the activation of SCP-7890-Furious-2, an unknown entity or device capable of lunar destruction.",
+  "procedures": {
+    "kappa1": "FILM-8PROD-4CONT-9ALPH",
+    "kappa2": "BROAD-7CAST-5LUNA-6SAVG"
+  },
+  "addendums": [
+    "The reason for SCP-7890-Furious's interest in the 'Fast & Furious' franchise remains unknown.",
+    "Efforts to establish dialogue with SCP-7890-Furious have been met with the repeating demand for more 'Fast & Furious' content.",
+    "Preventative measures have been implemented to ensure the moon's survival in case of failed compliance with SCP-7890-Furious's demand."
+  ],
+  "riskCode": "ORANGE",
+  "accessLevel": "EYES ONLY: COSMIC"
 }
+
 
 
 
