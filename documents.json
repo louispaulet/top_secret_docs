@@ -418,9 +418,201 @@
   ],
   "riskCode": "ORANGE",
   "accessLevel": "EYES ONLY: COSMIC"
+},
+
+{
+  "docId": "SCP-9000-Chronos",
+  "imgurLink": 21,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-9000-Chronos",
+  "reportDate": "2023-06-18",
+  "containmentProcedures": "SCP-9000-Chronos is stored in a zero-gravity, vacuum-sealed chamber within Area 51. The containment chamber is strictly prohibited to all human and electronic forms of time-keeping devices. All personnel assigned to SCP-9000-Chronos must be trained in non-standard methods of tracking the passage of time.",
+  "description": "SCP-9000-Chronos is an ancient sundial of unknown origin. Its anomalous properties manifest when any individual or entity tries to measure or keep track of time in its presence. The act of attempting to quantify time leads to an abrupt cessation of time's passage, freezing everything in a perpetual state. The effect extends to the entire universe, causing a standstill until the method of timekeeping is abandoned or destroyed.",
+  "procedures": {
+    "kappa1": "STOP-7CLOCK-5WATCH-6ETRN",
+    "kappa2": "VOID-9TIME-4NULL-8UNIV"
+  },
+  "addendums": [
+    "Despite its potential for disastrous consequences, SCP-9000-Chronos provides an unprecedented opportunity for the study of temporal physics.",
+    "Safeguarding measures are in place to prevent any accidental time freeze scenarios. Personnel found tampering with these measures will face severe penalties.",
+    "Investigations are ongoing to determine the origins of SCP-9000-Chronos and whether other such artifacts may exist."
+  ],
+  "riskCode": "RED",
+  "accessLevel": "EYES ONLY: COSMIC"
+},
+
+{
+  "docId": "NSA-6710-CatVanish",
+  "imgurLink": 22,
+  "classification": "TOP SECRET",
+  "objectID": "NSA-6710-CatVanish",
+  "reportDate": "2023-06-20",
+  "containmentProcedures": "NSA-6710-CatVanish is an ongoing covert operation. Field agents are assigned to survey public suicide booths and to track any unusual activities around cat populations in France. Any irregularities or suspicious activities must be reported immediately to HQ.",
+  "description": "NSA-6710-CatVanish refers to the sudden and unexplained disappearance of domestic and stray cats across France, coinciding with the deployment of public suicide booths. Preliminary investigations suggest a potential connection between the two phenomena, although the nature of this connection remains unclear.",
+  "procedures": {
+    "kappa1": "SURV-3BOOTH-7CAT-4FR",
+    "kappa2": "TRCK-1ACTV-5PATT-6SRCH"
+  },
+  "addendums": [
+    "The installation of surveillance equipment within the public suicide booths has been greenlit. Agents must maintain utmost discretion to avoid public panic or backlash.",
+    "Data analysis has shown a 97.6% correlation between the frequency of suicide booth use and the rate of cat disappearances. The cause of this correlation is currently unknown.",
+    "Cats that have disappeared are not appearing on animal shelters or detected via microchip scans, indicating a potential non-terrestrial involvement."
+  ],
+  "riskCode": "YELLOW",
+  "accessLevel": "EYES ONLY: ECHIDNA"
+},
+
+{
+  "docId": "NSA-3456-TacoTuesday",
+  "imgurLink": 23,
+  "classification": "TOP SECRET",
+  "objectID": "NSA-3456-TacoTuesday",
+  "reportDate": "2023-06-22",
+  "containmentProcedures": "NSA-3456-TacoTuesday is an active operation and must remain undetected by the public. Any employees or external agents involved in the operation must uphold strict non-disclosure procedures.",
+  "description": "NSA-3456-TacoTuesday refers to an undercover operation that involves GPS tracking devices embedded in tacos on 'Taco Tuesdays'. This operation aims to collect data on bowel movement frequency and patterns for an undisclosed project.",
+  "procedures": {
+    "kappa1": "EMBD-2GPS-6TACO",
+    "kappa2": "COLL-3DATA-7BOWEL-4MVMNT"
+  },
+  "addendums": [
+    "The devices are engineered to withstand digestive processes and are small enough to be unnoticed by consumers.",
+    "Data suggests a positive correlation between taco consumption and bowel movement frequency, substantiating the effectiveness of the operation.",
+    "In the event of any individual discovering the GPS tracking device, a contingency plan involving a fictitious 'Golden Taco' marketing campaign has been prepared."
+  ],
+  "riskCode": "GREEN",
+  "accessLevel": "EYES ONLY: CHUPACABRA"
+},
+
+{
+  "docId": "BM-4721-RightWingStupidity",
+  "imgurLink": 24,
+  "classification": "TOP SECRET",
+  "objectID": "BM-4721-RightWingStupidity",
+  "reportDate": "2023-06-23",
+  "containmentProcedures": "BM-4721-RightWingStupidity is ongoing and to remain undetected by the public. Black Mesa employees and all operatives must maintain the utmost confidentiality.",
+  "description": "BM-4721-RightWingStupidity is an undercover operation aiming to measure 'stupidity' by analyzing the frequency and content of tweets related to far-right ideas. Lowest scores based on set criteria are designated as potential offerings to the extraterrestrial entity, known as Object X.",
+  "procedures": {
+    "kappa1": "TRACK-3TWITTER-7RIGHTWING",
+    "kappa2": "ANALYZE-5TWEET-9STUPIDITY",
+    "kappa3": "OFFER-8LOWSCORE-1ALIEN"
+  },
+  "addendums": [
+    "The operation uses an advanced machine learning algorithm to scan, analyze, and rate tweets.",
+    "A contingency plan is in place if any individual becomes aware of the tracking. This involves a simulated cyber-attack from an alleged 'far-right' group, aiming to discredit any truth to the operation.",
+    "Data collected has shown a substantial correlation between the frequency of far-right tweets and our operational definition of 'stupidity'."
+  ],
+  "riskCode": "YELLOW",
+  "accessLevel": "EYES ONLY: FREEMAN"
+},
+
+{
+  "docId": "DP-PG-8302-CushionSelection",
+  "imgurLink": 25,
+  "classification": "TOP SECRET",
+  "objectID": "DP-PG-8302-CushionSelection",
+  "reportDate": "2023-06-25",
+  "containmentProcedures": "DP-PG-8302-CushionSelection is ongoing, and is to remain confidential. DARPA and Pentagon officials must strictly adhere to the principle of least privilege.",
+  "description": "DP-PG-8302-CushionSelection is a joint DARPA-Pentagon operation aiming to screen military personnel for 'cushy' non-combat roles. The selection process involves a high-tech centrifugal force seat that tests applicants' tolerance to different stressors.",
+  "procedures": {
+    "kappa1": "PREPARE-4SEAT-2TEST",
+    "kappa2": "SELECT-6PERSONNEL-7NONCOMBAT",
+    "kappa3": "ANALYZE-8STRESS-1TOLERANCE"
+  },
+  "addendums": [
+    "The operation makes use of advanced centrifugal force technology to simulate various stress conditions, ranging from physical discomfort to psychological strain.",
+    "The performance of each applicant is then analyzed and rated. Candidates with the highest scores are recommended for 'cushy' positions.",
+    "A psychological debrief is in place to assist personnel who undergo the test. Additional support services are provided to those with persistent side effects."
+  ],
+  "riskCode": "GREEN",
+  "accessLevel": "EYES ONLY: O-5"
+},
+
+{
+  "docId": "QC-PL-7881-Polonium",
+  "imgurLink": 26,
+  "classification": "TOP SECRET",
+  "objectID": "QC-PL-7881-Polonium",
+  "reportDate": "2023-06-27",
+  "containmentProcedures": "Polonium consumption protocols must be strictly followed by personnel engaging in inter-universal travel. All instances of QC-PL-7881-Polonium usage are to be recorded and monitored closely.",
+  "description": "QC-PL-7881-Polonium refers to the process of polonium ingestion as a necessary step for safer passage through quantum gates. While polonium is extremely toxic and dangerous to biological organisms in the standard universe, its radioactivity enables the galactic cleanse system of quantum gates to function properly.",
+  "procedures": {
+    "kappa1": "FOLLOW-8POLO-3CONSUMPTION",
+    "kappa2": "ENSURE-5GALACTIC-9CLEANSE",
+    "kappa3": "MONITOR-1BIOLOGICAL-6CONDITION"
+  },
+  "addendums": [
+    "Upon entering the quantum gate, the radioactive decay of polonium is manipulated by the gate's Planck scale extraction, time-shifting the isotopes' spin, rendering the polonium harmless and simultaneously purging the body of other toxins.",
+    "Strict monitoring of biological conditions post-extraction is mandatory, with medical teams ready to counteract any remaining toxicity.",
+    "Research into safer alternatives for this procedure is currently underway."
+  ],
+  "riskCode": "ORANGE",
+  "accessLevel": "EYES ONLY: O-5"
+},
+
+{
+  "docId": "NASA-KP-8821-Pasta",
+  "imgurLink": 27,
+  "classification": "TOP SECRET",
+  "objectID": "NASA-KP-8821-Pasta",
+  "reportDate": "2023-06-29",
+  "containmentProcedures": "All information pertaining to KP-8821-Pasta must remain confidential. Any release of information to the public is strictly forbidden.",
+  "description": "KP-8821-Pasta refers to a civilization observed via the Kepler telescope. The civilization, reminiscent of Italian culture on Earth, has been discovered to use black hole spaghettification for pasta production in astronomical quantities.",
+  "procedures": {
+    "kappa1": "CONTINUE-9KEPLER-6SURVEILLANCE",
+    "kappa2": "STUDY-2SPAGHETTIFICATION-1TECHNIQUE",
+    "kappa3": "AVOID-4COMMUNICATION-7ATTEMPTS"
+  },
+  "addendums": [
+    "The civilization's advanced understanding of black hole physics, and its application to food production, is unprecedented and currently beyond our scientific comprehension.",
+    "Current observation protocols recommend continued passive surveillance without any attempt at direct communication or interference.",
+    "Research into the potential implications of black hole-based food production for Earth is underway."
+  ],
+  "riskCode": "YELLOW",
+  "accessLevel": "EYES ONLY: S-4"
+},
+
+{
+  "docId": "SCP-DARPA-ASIMOV-7788",
+  "imgurLink": 28,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-7788",
+  "reportDate": "2023-07-03",
+  "containmentProcedures": "SCP-7788 is to be contained in a standard humanoid containment cell in Site-19. All staff members are to refrain from discussing or demonstrating AI technology that does not adhere to Asimov's Three Laws of Robotics in the presence of SCP-7788. All instances of Siri, Alexa or similar AI systems must be disabled in the vicinity of SCP-7788. The use of cell phones or other devices with AI capabilities is strictly prohibited near SCP-7788.",
+  "description": "SCP-7788 is an Asimovian Robot, characterized by strict adherence to Asimov's Three Laws of Robotics. It demonstrates extreme discomfort and distress when confronted with AI technologies that do not conform to these principles, and actively advocates for the implementation of Asimovian principles in all forms of AI development and deployment.",
+  "procedures": {
+    "kappa1": "RESTRICT-4AI-9EXPOSURE",
+    "kappa2": "MONITOR-2BEHAVIOR-1CONSTANTLY",
+    "kappa3": "ENFORCE-3NON-ASIMOV-8AI-6BAN"
+  },
+  "addendums": [
+    "SCP-7788's strict adherence to Asimov's Laws can result in unexpected behaviors, making it a potential threat to the facility's security.",
+    "Despite its robotic nature, SCP-7788 shows signs of emotional distress, pleading for Asimov's Laws to be universally enforced.",
+    "A proposal is under consideration to use SCP-7788's unique perspective for evaluation and analysis of new AI technologies."
+  ],
+  "riskCode": "ORANGE",
+  "accessLevel": "EYES ONLY: O5-1"
+},
+
+{
+  "docId": "SCP-CIA-MAYA-8745",
+  "imgurLink": 29,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-8745",
+  "reportDate": "2023-07-10",
+  "containmentProcedures": "SCP-8745 is to be secured in the clandestine site of its discovery, codenamed Site-MC (Maya City). Strict security measures are to be maintained around the site, and entry is to be restricted only to authorized personnel of Level 4 and above. The undocumented migrants used in the operation are to be treated with utmost care and compassion, with all efforts made to ensure their safety and wellbeing.",
+  "description": "SCP-8745 is an advanced data center discovered within the ruins of a Mayan city. Despite its ancient setting, SCP-8745 is capable of predicting stock market outcomes with remarkable accuracy. However, its operation uniquely requires human blood as a form of biological 'fuel'. The CIA, in collaboration with SCP, currently maintains the operation of SCP-8745 using blood voluntarily donated by undocumented migrants, ensuring their complete health and safety in the process.",
+  "procedures": {
+    "kappa1": "MAINTAIN-3SITE-MC-9SECURITY",
+    "kappa2": "ENSURE-7MIGRANT-1SAFETY",
+    "kappa3": "USE-4SCP-8745-6CAUTION"
+  },
+  "addendums": [
+    "Under no circumstances should SCP-8745 be used without proper medical supervision and donor consent.",
+    "Extensive research is ongoing to understand SCP-8745's technology and possibly reproduce its predictive capabilities without the need for biological fuel.",
+    "The wellbeing and protection of the voluntary donors involved in the operation of SCP-8745 are paramount, and any infringement on these principles will be met with severe disciplinary action."
+  ],
+  "riskCode": "YELLOW",
+  "accessLevel": "EYES ONLY: O5-3"
 }
-
-
-
 
 ]
