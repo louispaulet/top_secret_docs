@@ -1,0 +1,188 @@
+[
+  {
+    "docId": "NSA-QSN-TF88",
+    "classification": "TOP SECRET",
+    "analyst": "[REDACTED]",
+    "reportDate": "[REDACTED]",
+    "subject": "Quantum Signal Detection - Transformer",
+    "reportSummary": "During routine data analysis on [REDACTED], a non-standard quantum signal was detected. The signal strength and complexity far exceed known terrestrial capabilities, suggesting a non-human origin.",
+    "procedures": {
+      "alpha1": "TGB7-6YHN-2MJK-9UOL",
+      "alpha2": "RFG5-9IKL-4XCV-7BGT"
+    },
+    "details": "The signal appears to be a coded message, which when partially decrypted, reveals self-identification of an entity referred to as a 'Transformer.' The signal shows an advanced form of quantum communication, indicating a possible alien origin.",
+    "addendums": [
+      "An interagency task force, including experts from the NSA, SCP Foundation, and NASA, has been formed to fully decipher the message and determine the origin and intent of the 'Transformer.'",
+      "All personnel are reminded to maintain the highest level of secrecy due to the potential implications of the signal on national and global security."
+    ],
+    "securityLevel": "RED",
+    "accessLevel": "EYES ONLY: 20/20"
+  },
+  {
+    "docId": "SCP-GF88-TR",
+    "classification": "EUCLID",
+    "objectID": "SCP-GF88-TR",
+    "containmentProcedures": "The area known as 'Gravity Falls' requires regular surveillance due to unusual gravitational anomalies. Remote monitoring and on-site field teams are to investigate any new gravitational phenomena. Direct interaction with the 'Mysterious Triangle' entity (MT88-01-TR) requires Level 4 authorization and must be logged.",
+    "description": "Gravity Falls has been the center of multiple reports of gravitational anomalies and the appearance of a Mysterious Triangle (MT88-01-TR). The nature of these gravitational anomalies remains unknown, as does the connection with the Triangle.",
+    "procedures": {
+      "sigma1": "RF45-6VGJ-7NMB-2QAZ",
+      "sigma2": "YU98-4KLM-3XZA-7POI"
+    },
+    "addendums": [
+      "MT88-01-TR appears to be sentient, with the ability to interact with its environment and communicate with individuals. It has shown an unpredictable nature and should be approached with caution.",
+      "The link between the gravitational anomalies and MT88-01-TR remains unconfirmed. The SCP Foundation is cooperating with the NSA and CIA to gather more data and develop a comprehensive understanding of these events."
+    ],
+    "riskCode": "ORANGE",
+    "accessLevel": "EYES ONLY: 15/20"
+  },
+  {
+    "docId": "SCP-4000-JB",
+    "classification": "KETER",
+    "objectID": "SCP-4000-JB",
+    "reportDate": "2023-06-17",
+    "containmentProcedures": "SCP-4000-JB, currently known as 'Joe Biden,' is to be monitored closely at all times. Interaction with SCP-4000-JB is to be conducted with utmost discretion, and all contact must be logged. To maintain public ignorance of SCP-4000-JB's anomalous characteristics, disinformation campaigns may be necessary.",
+    "description": "SCP-4000-JB presents as Joseph Robinette Biden Jr., the 46th President of the United States, but has demonstrated a lifespan far exceeding normal human parameters. Historical analysis of Sumerian artifacts has revealed depictions resembling SCP-4000-JB, dating back approximately 4000 years, suggesting an age far beyond the standard human lifespan.",
+    "procedures": {
+      "sigma1": "TH12-8UNJ-9FBC-6KLW",
+      "sigma2": "XU39-7YNV-3PLQ-2KMT"
+    },
+    "addendums": [
+      "Several of these ancient Sumerian depictions appear to contain warnings or prophecies about future events, some of which correlate with known historical events. The full significance of these warnings remains under analysis.",
+      "SCP-4000-JB has not yet displayed any awareness of his anomalously extended lifespan or his depictions in Sumerian artifacts. However, given his position of influence, any behavioral changes should be reported immediately."
+    ],
+    "riskCode": "RED",
+    "accessLevel": "EYES ONLY: 20/20"
+  },
+  {
+    "docId": "SCP-7869-J",
+    "classification": "EUCLID",
+    "objectID": "SCP-7869-J",
+    "reportDate": "2023-06-17",
+    "containmentProcedures": "SCP-7869-J is to be kept in a standard containment locker within Site-██. Access is restricted to Level 3 personnel and above. Interaction with SCP-7869-J requires authorization from the site director, and all experiments must be logged.",
+    "description": "SCP-7869-J is an oval-shaped stone, measuring approximately 15 cm in length and 10 cm in width. Its surface is smooth, with a matte black finish. When in contact with gold, the gold immediately and irreversibly transmutes into bananas. The bananas appear to be ordinary in every respect and safe for consumption.",
+    "procedures": {
+      "cov-sec1": "8E76-5YPL-9BNO-1XBC",
+      "cov-sec2": "4Q04-7JCK-7DKM-6RST"
+    },
+    "addendums": [
+      "Incident Report 6732-B indicates a severe financial loss after an unfortunate incident involving SCP-7869-J and a gold bar. All personnel are reminded to exercise caution when in possession of personal items within proximity of SCP-7869-J.",
+      "No known method has been discovered to reverse the transformation process. Repeated experiments have consistently resulted in the production of bananas."
+    ],
+    "riskCode": "YELLOW",
+    "accessLevel": "EYES ONLY: 4/5"
+  },
+  {
+    "docId": "SHN42-98-33",
+    "classification": "CONFIDENTIAL",
+    "projectID": "SHN42-98-33",
+    "reportDate": "2023-06-15",
+    "project": "Research on cloning a shark and replacing its brain with a synthetic Adolf Hitler brain.",
+    "statusUpdate": "The ongoing research project experienced an unexpected failure on 15/06/2023. Preliminary indications suggest the possibility of sabotage within SCP Complex 42.",
+    "procedures": {
+      "spc1": "JKL7-6VBN-2MNB-8YUI",
+      "spc2": "UIO4-9JKL-3XCV-5BGT"
+    },
+    "addendums": [
+      "The cloned shark, designated as SHN-42, was found deceased in its containment tank. The synthetic brain, designed to mimic Adolf Hitler's, was undamaged but had failed to integrate successfully.",
+      "An internal investigation is underway to determine the possibility of sabotage. SCP Complex 42 has been placed on high alert, and all access is temporarily restricted.",
+      "Due to the high-risk nature and ethical implications of the project, any evidence of misconduct, external interference, or sabotage must be reported immediately."
+    ],
+    "securityLevel": "RED",
+    "accessLevel": "EYES ONLY: 20/20"
+  },
+  {
+    "docId": "DT45-17-46",
+    "classification": "CONFIDENTIAL",
+    "subjectID": "DT45-17-46",
+    "alias": "Donald J. Trump",
+    "reportDate": "2023-06-17",
+    "profile": "Born on June 14, 1946, in Queens, New York, Donald J. Trump served as the 45th President of the United States (2017-2021). Notable for his business ventures before and after his presidency.",
+    "currentActivities": "DT45-17-46 is primarily engaged in media, real estate, and potential political activities. Close surveillance required to monitor any deviations from standard behavioral patterns.",
+    "procedures": {
+      "hrt1": "QXT9-7GHB-5DLZ-8POQ",
+      "hrt2": "ZEC5-8JUY-6LKM-2RST"
+    },
+    "addendums": [
+      "Despite a decreased political presence, DT45-17-46 maintains significant influence over certain demographics. Constant monitoring necessary to anticipate any significant societal impacts.",
+      "DT45-17-46 is known to utilize multiple communication platforms, including social media. Ensure full coverage and immediate response to any potential incidents."
+    ],
+    "securityLevel": "ORANGE",
+    "accessLevel": "EYES ONLY: 12/20"
+  },
+  {
+    "docId": "QDT45-23-92",
+    "classification": "CONFIDENTIAL",
+    "subjectID": "QDT45-23-92",
+    "subject": "Alleged relationship between Donald J. Trump (DT45-17-46) and the conspiracy theory group known as QAnon.",
+    "reportDate": "2023-06-17",
+    "background": "QAnon is a decentralized network promoting a series of conspiracy theories. Donald J. Trump has been implicated in some of their narratives, particularly during his term as President.",
+    "evidence": "While there have been multiple instances of DT45-17-46 retweeting content from known QAnon sources or offering comments that could be interpreted as supportive, no concrete evidence has been established that confirms direct communication or coordination between DT45-17-46 and the QAnon network.",
+    "procedures": {
+      "hrt1": "ZGH7-9LKJ-4BNM-1XSW",
+      "hrt2": "MNB6-5VCX-7POI-3LKM"
+    },
+    "addendums": [
+      "Due to the decentralised and diffuse nature of QAnon, monitoring of all communication channels is ongoing.",
+      "DT45-17-46's direct or indirect impact on the QAnon network remains a subject of interest. Any major deviations from current patterns to be reported immediately."
+    ],
+    "securityLevel": "YELLOW",
+    "accessLevel": "EYES ONLY: 10/20"
+  },
+  {
+    "docId": "PV5G-39-57",
+    "classification": "CONFIDENTIAL",
+    "subjectID": "PV5G-39-57",
+    "subject": "Alleged phenomenon involving a halved potato's ability to absorb the supposed 5G chip of a vaccine and subsequent toxins.",
+    "reportDate": "2023-06-17",
+    "background": "A rumor has surfaced on various internet platforms suggesting that a potato cut in half can absorb a supposed 5G chip from a vaccine, along with subsequent toxins. This document is a briefing on the veracity of these claims.",
+    "analysis": "Upon extensive testing and analysis, we have found no scientific basis for the claim that a halved potato can absorb a 5G chip or any toxins from a vaccine. Vaccines do not contain 5G chips or any similar tracking devices. The claim appears to be rooted in misinformation and lacks factual support.",
+    "procedures": {
+      "int-ops1": "LKJ9-8HG6-5DFR-1ZXC",
+      "int-ops2": "RFX8-6KLP-2BNM-4POI"
+    },
+    "addendums": [
+      "Continuous monitoring of misinformation networks is necessary to identify and address such claims promptly.",
+      "Public information campaigns emphasizing reliable, scientifically validated information on vaccines and 5G technology are crucial to combatting such rumors."
+    ],
+    "securityLevel": "GREEN",
+    "accessLevel": "EYES ONLY: 7/20"
+  },
+  {
+    "docId": "TTKR-61-35",
+    "classification": "CONFIDENTIAL",
+    "subjectID": "TTKR-61-35",
+    "subject": "Rehabilitation of the time-traveling T-Rex implicated in the assassination of John F. Kennedy.",
+    "reportDate": "2023-06-17",
+    "background": "The entity, herein referred to as the T-Rex, reportedly traveled through time and was allegedly involved in the unfortunate demise of President John F. Kennedy in 1963. Capture and containment of the T-Rex were successful after initial incidents.",
+    "rehabilitationProtocol": "Due to the unique temporal abilities of the T-Rex and the potential risks associated, a specially designed rehabilitation program has been put in place. This includes carefully calibrated time-locked enclosures and engagement with experienced handlers to ensure safety and containment.",
+    "procedures": {
+      "htr1": "GHJ8-7UIO-3XCV-6NMB",
+      "htr2": "ZXC4-6VFR-9KJH-2LOI"
+    },
+    "addendums": [
+      "The T-Rex has shown progress in adapting to the controlled environment. The temporal anomalies linked to the T-Rex have decreased significantly, indicating successful containment.",
+      "Continual monitoring of the T-Rex is crucial due to its historic impact and the potential temporal threats it may pose. Any incidents or behavioral anomalies must be reported immediately."
+    ],
+    "securityLevel": "RED",
+    "accessLevel": "EYES ONLY: 19/20"
+  },
+  {
+    "docId": "JEEUC-76-25",
+    "classification": "CONFIDENTIAL",
+    "subjectID": "JEEUC-76-25",
+    "subject": "Relocation of Jeffrey Epstein to the Euclid Compound on 17/05/2023.",
+    "reportDate": "2023-06-17",
+    "background": "Jeffrey Epstein, a convicted felon, reportedly deceased in 2019. Reports suggest an alleged spectral phenomenon, designated as 'Victorian Child Ghost' has been causing disturbances at Epstein's last known residence.",
+    "operationDetails": "On 17/05/2023, Subject Epstein was discreetly transferred to the Euclid Compound to mitigate complaints regarding the 'Victorian Child Ghost'. The relocation was executed under maximum security to avoid public attention or interference.",
+    "procedures": {
+      "euc1": "QAZ6-9UIO-2JKL-5MNB",
+      "euc2": "ZXC4-7POI-8JKL-1MNB"
+    },
+    "addendums": [
+      "Post-relocation, all complaints regarding the 'Victorian Child Ghost' ceased. Additional measures, including advanced spectral containment methods, have been applied at the Euclid Compound.",
+      "Monitoring of the Euclid Compound for any abnormal activities related to Subject Epstein or the 'Victorian Child Ghost' is ongoing. Any significant deviations from current patterns to be reported immediately."
+    ],
+    "securityLevel": "BLUE",
+    "accessLevel": "EYES ONLY: 16/20"
+  }
+]
