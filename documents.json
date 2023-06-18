@@ -613,6 +613,244 @@
   ],
   "riskCode": "YELLOW",
   "accessLevel": "EYES ONLY: O5-3"
+},
+
+{
+  "docId": "SCP-TECH-3008-IN-MIND",
+  "imgurLink": 30,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-3008-INT",
+  "reportDate": "2023-07-15",
+  "containmentProcedures": "SCP-3008-INT, a subject with a mental instantiation of SCP-3008, is to be maintained in a medically induced coma within a high-security wing at Site-19. Access to SCP-3008-INT is restricted to SCP Tech Support personnel of Level 4 or higher. Tech Support is tasked with initiating and maintaining an experimental neural interface for exploratory and debug missions.",
+  "description": "Following a volunteered memory-erasure procedure, SCP-3008, a transdimensional IKEA store, was inexplicably introduced into the subject's mind. SCP-3008-INT appears to be a full, interactive representation of SCP-3008, replete with seemingly autonomous entities resembling SCP-3008-2 'staff'.",
+  "procedures": {
+    "kappa1": "MAINTAIN-9SECURITY-3AROUND-6SCP-3008-INT",
+    "kappa2": "CONDUCT-7DEBUG-2MISSIONS",
+    "kappa3": "ENSURE-8SUBJECT-1WELLBEING"
+  },
+  "addendums": [
+    "Exploratory and debug missions are to be undertaken by specially trained SCP Tech Support personnel only.",
+    "Strict mental health evaluations are to be performed on SCP Tech Support personnel before and after each mission.",
+    "Attempts are to be made to extract SCP-3008-INT from the subject's mind while preserving their mental integrity."
+  ],
+  "riskCode": "RED",
+  "accessLevel": "EYES ONLY: O5-2"
+},
+
+{
+  "docId": "SCP-999-SM-TREND",
+  "imgurLink": 31,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-999-SMT",
+  "reportDate": "2023-07-20",
+  "containmentProcedures": "SCP-999-SMT must be contained within a specially designed emotional isolation chamber located in Site-17 to prevent further large-scale emotional influence. Any and all social media posts, trends, or references to SCP-999 must be monitored and swiftly removed by dedicated SCP Foundation Cybersecurity personnel.",
+  "description": "SCP-999, originally a harmless therapy creature, became a viral sensation on multiple social media platforms. With an unforeseen ability to manipulate human emotions at scale, widespread exposure to SCP-999's digital representation resulted in societal disruption due to excessive and uncontrollable emotional fluctuations.",
+  "procedures": {
+    "kappa1": "MAINTAIN-8ISOLATION-3OF-9SCP-999-SMT",
+    "kappa2": "MONITOR-6SOCIAL-2MEDIA",
+    "kappa3": "REMOVE-5ALL-4REFERENCES-7TO-1SCP-999"
+  },
+  "addendums": [
+    "Further research is required to understand the mechanism and scale of SCP-999-SMT's emotional manipulation.",
+    "All SCP Foundation personnel are to refrain from interacting with or mentioning SCP-999 on any social media platform.",
+    "The Cybersecurity team is exploring possibilities of digital inoculation against SCP-999-SMT's emotional influence."
+  ],
+  "riskCode": "RED",
+  "accessLevel": "EYES ONLY: O5-7"
+},
+
+{
+  "docId": "SCP-914-PC-MERGE",
+  "imgurLink": 32,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-914-PCM",
+  "reportDate": "2023-07-22",
+  "containmentProcedures": "SCP-914-PCM must be contained within an isolated digital environment at Site-29. Physical access to SCP-914 has been restricted. All software related to parental control systems must be monitored and kept separate from SCP-914. Individuals affected by SCP-914-PCM should undergo corrective psychological treatment to counteract hyper-refinement of behaviours.",
+  "description": "SCP-914-PCM is the result of crossing a parental control system with SCP-914, a refining machine. This created an advanced version of the parental control system, capable of altering the behaviors of children it is used on to an extreme degree. This has led to an unanticipated dystopian outcome with a society of youth who are hyper-controlled, devoid of creative and independent thought.",
+  "procedures": {
+    "kappa1": "ISOLATE-SCP-914-PCM",
+    "kappa2": "MONITOR-PARENTAL-CONTROL-SOFTWARE",
+    "kappa3": "RESTRICT-ACCESS-TO-SCP-914",
+    "kappa4": "PROVIDE-PSYCHOLOGICAL-TREATMENT-TO-AFFECTED-INDIVIDUALS"
+  },
+  "addendums": [
+    "Investigations are ongoing to determine the full extent of SCP-914-PCM's influence on children's behaviors.",
+    "Software development protocols have been revised to avoid any future cross-contamination with SCP objects.",
+    "Further study is required to understand the potential reversibility of SCP-914-PCM's effects."
+  ],
+  "riskCode": "RED",
+  "accessLevel": "EYES ONLY: O5-7"
+},
+
+{
+  "docId": "SCP-066-FW-ITERATION",
+  "imgurLink": 33,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-066-FIT",
+  "reportDate": "2023-07-25",
+  "containmentProcedures": "All instances of SCP-066-FIT must be confiscated and contained in a secure storage at Site-42. Civilian population must be discouraged from using any new fitness wearable until further notice. Misinformation campaigns should be launched to diminish the popularity of fitness wearables. Affected individuals should be treated with Class-C amnestics.",
+  "description": "SCP-066-FIT is an iteration of SCP-066 disguised as a fitness wearable. It influences people to become dangerously enthusiastic about health, causing major societal disruptions. Extreme cases have included the President of the United States biking to work, leading to city-wide traffic shutdowns.",
+  "procedures": {
+    "kappa1": "CONFISCATE-SCP-066-FIT",
+    "kappa2": "DISCOURAGE-USE-OF-FITNESS-WEARABLES",
+    "kappa3": "LAUNCH-MISINFORMATION-CAMPAIGNS",
+    "kappa4": "ADMINISTER-CLASS-C-AMNESTICS"
+  },
+  "addendums": [
+    "The sudden rise in popularity of the SCP-066-FIT was initially seen as a positive societal shift, but the disruptive effects became quickly apparent.",
+    "Investigations are ongoing to track the production source of SCP-066-FIT.",
+    "Efforts are being made to neutralize the effects of SCP-066-FIT."
+  ],
+  "riskCode": "YELLOW",
+  "accessLevel": "EYES ONLY: O5-5"
+},
+
+{
+  "docId": "VOODOO-1207-POLITICUS",
+  "imgurLink": 34,
+  "classification": "TOP SECRET",
+  "objectID": "VOODOO-1207",
+  "reportDate": "2023-07-30",
+  "containmentProcedures": "All VOODOO-1207 instances are to be secured in an airtight vault at Site-17. Access requires Level-5 authorization. All political figures must be screened for signs of VOODOO-1207 influence.",
+  "description": "VOODOO-1207 is a collection of voodoo dolls with the unique ability to influence global political figures. The dolls have been linked to abrupt policy changes and sudden shifts in global politics.",
+  "procedures": {
+    "kappa1": "SECURE-VOODOO-1207",
+    "kappa2": "SCREEN-POLITICAL-FIGURES",
+    "kappa3": "MONITOR-GLOBAL-POLITICS"
+  },
+  "addendums": [
+    "VOODOO-1207 was discovered following a series of unexplained global political events.",
+    "A joint operation between the FBI, MI5, and the SCP Foundation is underway to further study and contain VOODOO-1207.",
+    "Strict protocols are in place to mitigate the influence of VOODOO-1207."
+  ],
+  "riskCode": "RED",
+  "accessLevel": "EYES ONLY: O5-7"
+},
+
+{
+  "docId": "SCP-3859-TALKING-FLYTRAP",
+  "imgurLink": 35,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-3859",
+  "reportDate": "2023-08-02",
+  "containmentProcedures": "SCP-3859 is to be contained in a biohazard-level-4 greenhouse at Site-23. All personnel entering SCP-3859's containment area are required to wear Hazmat suits. No individual should engage in conversation or respond to any vocalizations from SCP-3859.",
+  "description": "SCP-3859 is a carnivorous plant species that shares characteristics with the Venus flytrap (Dionaea muscipula). SCP-3859 is capable of vocalizing human speech and imitating human behavior. It uses this ability to lure its prey via mimicry of distress calls or pleas for help. When the prey is within reach, SCP-3859 immobilizes and digests them.",
+  "procedures": {
+    "kappa1": "SECURE-SCP-3859",
+    "kappa2": "PROTECT-STAFF",
+    "kappa3": "IGNORE-VOICES"
+  },
+  "addendums": [
+    "SCP-3859's mimicry ability has been observed to extend beyond simple distress calls to complex conversation.",
+    "The plant demonstrates a remarkable understanding of human psychology, using manipulation tactics to lure its victims."
+  ],
+  "riskCode": "ORANGE",
+  "accessLevel": "EYES ONLY: O5-2"
+},
+
+{
+  "docId": "SCP-9071-GHOSTGLADIATOR",
+  "imgurLink": 36,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-9071",
+  "reportDate": "2023-09-15",
+  "containmentProcedures": "SCP-9071 is to be kept under constant surveillance with access strictly prohibited. A perimeter has been established and camouflaged to blend with the surrounding environment. Any unusual activity or predicted events must be immediately reported to the O5 Council.",
+  "description": "SCP-9071 is an ancient Roman amphitheater located in an undisclosed location. It manifests spectral gladiator matches that bear a remarkable correspondence to global socio-political events. Spectators report the fights to be extraordinarily realistic, with apparitions displaying vivid expressions of pain, effort, and struggle.",
+  "procedures": {
+    "kappa1": "SURVEILLANCE-SCP-9071",
+    "kappa2": "EVENT-CORRELATION",
+    "kappa3": "IMMEDIATE-REPORTING"
+  },
+  "addendums": [
+    "The exact mechanism by which SCP-9071 predicts global events is yet to be determined.",
+    "Efforts are underway to harness SCP-9071 as a potential early-warning system for global socio-political instability."
+  ],
+  "riskCode": "YELLOW",
+  "accessLevel": "EYES ONLY: O5-1"
+},
+
+{
+  "docId": "SCP-1111-SMT",
+  "imgurLink": 37,
+  "classification": "TOP SECRET",
+  "objectID": "SCP-1111-SMT",
+  "reportDate": "2023-10-01",
+  "containmentProcedures": "SCP-1111-SMT is currently uncontained and its spread is being monitored. All instances of SCP-1111-SMT on social media platforms should be flagged and reported immediately. Foundation web crawlers (AI-SMT1, AI-SMT2) are programmed to identify and delete instances of SCP-1111-SMT where possible.",
+  "description": "SCP-1111-SMT is an anomalous meme circulating across various social media platforms. Exposure to SCP-1111-SMT triggers the urge in individuals to perform synchronized flash mob dances at random intervals and locations. These performances can disrupt normal activities and pose significant risks to safety.",
+  "procedures": {
+    "kappa1": "IDENTIFICATION-SCP-1111-SMT",
+    "kappa2": "ERADICATION-SMT-MEME",
+    "kappa3": "MONITORING-PUBLIC-ACTIVITIES"
+  },
+  "addendums": [
+    "The exact origin of SCP-1111-SMT is unknown and is currently under investigation.",
+    "Research is ongoing to develop a counter-meme capable of neutralizing SCP-1111-SMT's anomalous effects."
+  ],
+  "riskCode": "RED",
+  "accessLevel": "EYES ONLY: O5-1"
+},
+
+{
+  "docId": "HEIST-3829",
+  "imgurLink": 38,
+  "classification": "TOP SECRET",
+  "objectID": "HEIST-3829",
+  "reportDate": "2023-11-20",
+  "containmentProcedures": "HEIST-3829 is currently under investigation by NSA, FBI, and SCP Special Task Force Lambda-5 ('White Rabbits'). All communications and individuals involved are to be closely monitored, and any attempts to interfere with Hyperloop operations must be preemptively thwarted.",
+  "description": "HEIST-3829 refers to an ongoing plan by an unidentified group of thieves to rob a Hyperloop transit system while it is in operation. Their aim is to breach the Hyperloop during its highest speed phase and extract valuable cargo without disrupting the system. The specific method of operation, identities of the individuals involved, and their end objectives remain unknown.",
+  "procedures": {
+    "kappa1": "SURVEILLANCE-HYPERLOOP",
+    "kappa2": "INTERCEPTION-HEIST",
+    "kappa3": "INVESTIGATION-IDENTITIES"
+  },
+  "addendums": [
+    "Due to the technical sophistication and audacity of HEIST-3829, there is high probability that former or current personnel with deep understanding of Hyperloop technology are involved.",
+    "Investigation is ongoing to ascertain the potential ramifications should the heist be successful."
+  ],
+  "riskCode": "YELLOW",
+  "accessLevel": "EYES ONLY: O5-2"
+},
+
+{
+  "docId": "SCP-7654",
+  "imgurLink": 39,
+  "classification": "EUCLID",
+  "objectID": "SCP-7654",
+  "reportDate": "2023-12-01",
+  "containmentProcedures": "SCP-7654 is to be contained in a standard containment locker at Site-81. All handling and research must be approved by a Level 3 researcher or higher. Testing subjects should be screened for sensitivity to migraines and be under medical supervision during and after exposure.",
+  "description": "SCP-7654 is a prehistoric stone tablet covered in unknown symbols. When a human subject views SCP-7654, they report hearing voices which communicate advanced mathematical concepts. This has allowed for breakthroughs in various fields of theoretical mathematics. However, exposure also results in increasingly severe migraines which can last for days following the initial contact.",
+  "procedures": {
+    "kappa1": "SAFE-STORAGE-SCP-7654",
+    "kappa2": "RESEARCH-SCP-7654",
+    "kappa3": "MEDICAL-OBSERVATION"
+  },
+  "addendums": [
+    "Attempts to decipher the symbols on SCP-7654 have thus far been unsuccessful.",
+    "The origin and purpose of SCP-7654 remain unknown."
+  ],
+  "riskCode": "ORANGE",
+  "accessLevel": "EYES ONLY: O5-1"
+},
+
+{
+  "docId": "NSA-3221",
+  "imgurLink": 40,
+  "classification": "TOP SECRET",
+  "objectID": "Reddit: Operation Avian Deception",
+  "reportDate": "2023-06-21",
+  "containmentProcedures": "Operation Avian Deception is an ongoing psy-ops campaign. Our aim is to deter Reddit users from discovering the truth about the Avian Replacement Program of 1968, a top-secret government operation that replaced all birds with surveillance drones. This operation was implemented in response to the sudden and inexplicable disappearance of all birds.",
+  "description": "To avert attention from birds, Operation Tall Tale has been initiated. This operation involves spreading a conspiracy theory that giraffes do not exist. Teams are to create and maintain multiple Reddit accounts to post and upvote content related to the 'Giraffes Are Fake' theory. Other tactics include organizing false flag operations, using disinformation campaigns, and promoting other conspiracy theories.",
+  "procedures": {
+    "zeta1": "DISINFORMATION-CAMPAIGN",
+    "zeta2": "SOCIAL-MEDIA-MANIPULATION",
+    "zeta3": "FALSE-FLAG-OPERATIONS"
+  },
+  "addendums": [
+    "NSA agents embedded within Reddit's administration have been ordered to manipulate the site's algorithm to promote giraffe-related content.",
+    "Reddit users who come close to discovering the truth about the Avian Replacement Program should be identified and monitored closely."
+  ],
+  "riskCode": "RED",
+  "accessLevel": "EYES ONLY: O5-1"
 }
 
 ]
